@@ -8,6 +8,8 @@ My Potfolio Website - Work in Progress
 <a href=https://twitter.com/datalass1><img src="http://icons.iconarchive.com/icons/iynque/ios7-style/256/Twitter-icon.png" width="35"> 
 <a href=https://www.linkedin.com/in/rachel-keay-b60a1666/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="33">
 
+
 - source to begin: https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
 - sources of further development: https://jekyllrb.com/docs/github-pages/
 - inspiration: https://bonn0062.github.io/portfolio_ab/index.html#intro
+- html and css resources: https://www.w3schools.com/html/
